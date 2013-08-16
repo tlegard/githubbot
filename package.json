@@ -1,0 +1,21 @@
+{
+  "name": "emojibot",
+  "version": "0.3.0",
+  "description": "A simple bot that keeps track of github status",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "irc": "~0.3.6",
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "cheerio": "~0.12.0",
+    "request": "~2.25.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlegard/githubbot.git"
+  },
+  "author": "Tucker Legard",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
